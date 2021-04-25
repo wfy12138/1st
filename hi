@@ -1,0 +1,6 @@
+using Photon.Pun;
+using Photon.Realtime;
+using UnityEngine;
+using UnityEngine.Assertions;
+using UnityEngine.UI;
+using UnityTemplateProjects.UI.Models;
